@@ -1,0 +1,27 @@
+.ann{
+   background-color: #379683;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   height: 85vh;
+   width: 100vw;
+}
+.proo{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   
+}
+.info{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   width: 280px;
+   height: 200px;
+}
